@@ -79,6 +79,8 @@ import {
   Notification
 } from 'element-ui';
 
+
+
 Vue.use(Pagination);
 Vue.use(Dialog);
 Vue.use(Autocomplete);
@@ -151,7 +153,7 @@ Vue.use(Image);
 Vue.use(Calendar);
 Vue.use(Backtop);
 Vue.use(PageHeader);
-Vue.use(CascaderPanel);
+
 
 Vue.use(Loading.directive);
 
